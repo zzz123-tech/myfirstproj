@@ -110,6 +110,7 @@ public class DOM4JXMLdemo {
 		dom4jxml.add();
 		dom4jxml.update();
 		// dom4jxml.showPhoneInfo();
+		System.out.print("hello");
 	}
 	
 }
